@@ -1,0 +1,23 @@
+body{
+  font-size: 16px;
+}
+.h1 {
+  size: 65px;
+  color: #ff0077;
+  font-family: sans-serif;
+  line-height: normal;
+  text-align: justify;
+  text-decoration: overline;
+}
+.ul{
+background-color: antiquewhite;
+font-style: normal;
+background-color: bisque;
+color:#ff0077;
+font-size: 48px
+}
+.p{
+font-size: 48px;
+background-color: bisque;
+color: #ff0077;
+}
